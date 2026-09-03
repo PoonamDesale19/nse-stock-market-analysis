@@ -101,7 +101,7 @@ nse-stock-market-analysis/
 ##  Power BI Dashboard
 
 ### Market Movers
-![Market Movers Dashboard](PowerBI/Screenshots/market-movers.png)
+![Market Movers Dashboard](PowerBI/Screenshots/ market-movers.png)
 
 ### Stock Signals
 ![Stock Summary Dashboard](PowerBI/Screenshots/stock-summary.png)
