@@ -88,7 +88,7 @@ The dashboard provides:
 
 ##  Project Structure
 
-```text
+
 nse-stock-market-analysis/
 │
 ├── README.md
