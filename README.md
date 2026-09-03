@@ -93,7 +93,18 @@ nse-stock-market-analysis/
 │
 ├── README.md
 ├── python/
-├── sql/
 ├── powerbi/
 ├── data/
 └── docs/
+
+
+##  Power BI Dashboard
+
+### Market Movers
+![Market Movers Dashboard](PowerBI/Screenshots/market-movers.png)
+
+### Stock Signals
+![Stock Signals Dashboard](PowerBI/Screenshots/stock-signals.png)
+
+### Stock Summary
+![Stock Summary Dashboard](PowerBI/Screenshots/stock-summary.png)
