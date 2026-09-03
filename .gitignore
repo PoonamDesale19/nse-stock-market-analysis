@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+*.env
+azure_credentials.json
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+
+# Power BI temporary files
+*.pbi-cache
+*.pbi-temp
