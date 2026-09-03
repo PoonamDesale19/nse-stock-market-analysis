@@ -104,7 +104,7 @@ nse-stock-market-analysis/
 ![Market Movers Dashboard](PowerBI/Screenshots/market-movers.png)
 
 ### Stock Signals
-![Stock Signals Dashboard](PowerBI/Screenshots/stock-summary.png)
+![Stock Summary Dashboard](PowerBI/Screenshots/stock-summary.png)
 
 ### Stock Summary
-![Stock Summary Dashboard](PowerBI/Screenshots/stock-to-watch-tommarow.png)
+![Stocks To Watch Tommarrow Dashboard](PowerBI/Screenshots/stock-to-watch-tommarow.png)
