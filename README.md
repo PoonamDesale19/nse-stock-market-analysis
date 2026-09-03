@@ -98,13 +98,18 @@ nse-stock-market-analysis/
 └── docs/
 
 
-##  Power BI Dashboard
+
+
+## Power BI Dashboard
 
 ### Market Movers
-![Market Movers Dashboard](PowerBI/Screenshots/ market-movers.png)
 
-### Stock Signals
-![Stock Summary Dashboard](PowerBI/Screenshots/stock-summary.png)
+![Market Movers Dashboard](PowerBI/Screenshots/market-movers.png)
 
 ### Stock Summary
-![Stocks To Watch Tommarrow Dashboard](PowerBI/Screenshots/stock-to-watch-tommarow.png)
+
+![Stock Summary Dashboard](PowerBI/Screenshots/stock-summary.png)
+
+### Stocks To Watch Tomorrow
+
+![Stocks To Watch Tomorrow Dashboard](PowerBI/Screenshots/stock-to-watch-tommarow.png)
